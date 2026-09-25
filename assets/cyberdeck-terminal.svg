@@ -44,8 +44,8 @@
   <text x="82" y="24" class="mono title-text">smford@mainframe: ~ (bash/netrunner) // TTY1_ONLINE</text>
   
   <!-- Right Status Beacon -->
-  <circle cx="718" cy="20" r="4" fill="#00FF66" filter="url(#neonGlow)"/>
-  <text x="730" y="24" class="mono" font-size="11" font-weight="bold" fill="#00FF66" letter-spacing="1px">SEC_NET: ACTIVE</text>
+  <circle cx="698" cy="20" r="4" fill="#00FF66" filter="url(#neonGlow)"/>
+  <text x="710" y="24" class="mono" font-size="11" font-weight="bold" fill="#00FF66" letter-spacing="1px">SEC_NET: ACTIVE</text>
 
   <!-- Command Line Prompt -->
   <text x="36" y="72" class="mono prompt-label">
