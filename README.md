@@ -1,15 +1,15 @@
 <div align="center">
 
 ```text
- ╔════════════════════════════════════════════════════════════════════════════════════════════════════════╗
- ║  ███████╗███╗   ███╗███████╗ ██████╗ ██████╗  ██████╗     ███╗   ███╗███████╗████████╗██████╗  ██████╗ ║
- ║  ██╔════╝████╗ ████║██╔════╝██╔═══██╗██╔══██╗██╔════╝     ████╗ ████║██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗║
- ║  ███████╗██╔████╔██║█████╗  ██║   ██║██████╔╝██║  ███╗    ██╔████╔██║█████╗     ██║   ██████╔╝██║   ██║║
- ║  ╚════██║██║╚██╔╝██║██╔══╝  ██║   ██║██╔══██╗██║   ██║    ██║╚██╔╝██║██╔══╝     ██║   ██╔══██╗██║   ██║║
- ║  ███████║██║ ╚═╝ ██║██║     ╚██████╔╝██║  ██║╚██████╔╝    ██║ ╚═╝ ██║███████╗   ██║   ██║  ██║╚██████╔╝║
- ║  ╚══════╝╚═╝     ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ║
- ║                      // NEURAL_MAINFRAME v9.2 // NIGHT CITY & BAY CITY NET PROTOCOL                     ║
- ╚════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+ ╔═════════════════════════════════════════════════════════════════╗
+ ║   ███████╗███╗   ███╗███████╗ ██████╗ ██████╗ ██████╗  v9.2     ║
+ ║   ██╔════╝████╗ ████║██╔════╝██╔═══██╗██╔══██╗██╔══██╗          ║
+ ║   ███████╗██╔████╔██║█████╗  ██║   ██║██████╔╝██║  ██║          ║
+ ║   ╚════██║██║╚██╔╝██║██╔══╝  ██║   ██║██╔══██╗██║  ██║          ║
+ ║   ███████║██║ ╚═╝ ██║██║     ╚██████╔╝██║  ██║██████╔╝          ║
+ ║   ╚══════╝╚═╝     ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═════╝           ║
+ ║          // NEURAL_MAINFRAME // SEC_NET: ACTIVE //              ║
+ ╚═════════════════════════════════════════════════════════════════╝
 ```
 
 [![Operator](https://img.shields.io/badge/OPERATOR-smford%40mainframe-00F0FF?style=for-the-badge&logo=gnubash&logoColor=00F0FF&labelColor=06080e)](https://smford.github.io/)
@@ -30,17 +30,17 @@
 
 ## 📟 `[01]` // SYS_DIAGNOSTICS & TELEMETRY
 
-```ansi
-[1;33msmford@mainframe[0m:[1;36m~[0m$ neofetch --cyberdeck
-[1;36m       .---.       [0m [1;33mOPERATOR:[0m   Steve Ford (@smford)
-[1;36m      /     \      [0m [1;33mROLE:[0m       Senior Site Reliability Engineer & Hardware Prototyper
-[1;36m     | () () |     [0m [1;33mFOCUS:[0m      High-Scale Reliability, Zero-Alloc Go CLIs, WebGL 3D, IoT Cyberware
-[1;36m      \  -  /      [0m [1;33mUPTIME:[0m     20+ Years Continuous Integration Across Physical & Cloud Stacks
-[1;36m     .-'---'-.     [0m [1;33mNETWORK:[0m    Bay Area Grid // UK Matrix Nodes
-[1;36m    / /|   |\ \    [0m [1;33mHARDWARE:[0m   ESP32 Xtensa Dual-Core, Raspberry Pi Zero/CM4, Bambu Lab X1C
-[1;36m   (_/ |   | \_)   [0m [1;33mINFRA:[0m      Debian Linux, Kubernetes RBAC, Terraform, MikroTik, UniFi PoE
-[1;36m       |___|       [0m [1;33mSHELL:[0m      zsh 5.9 / Bash 5.2 / Neovim 0.10 / iTerm2 OSC 1337
-[1;36m      (__|__)      [0m [1;33mTELEMETRY:[0m  SNMPv3, TICK Stack, v4l2rtspserver, LittleFS/SPIFFS
+```text
+smford@mainframe:~$ neofetch --cyberdeck
+       .---.        OPERATOR:   Steve Ford (@smford)
+      /     \       ROLE:       Senior Site Reliability Engineer & Hardware Prototyper
+     | () () |      FOCUS:      High-Scale Reliability, Zero-Alloc Go CLIs, IoT Cyberware
+      \  -  /       UPTIME:     20+ Years Continuous Systems & Infrastructure Engineering
+     .-'---'-.      NETWORK:    Bay Area Grid // UK Matrix Nodes
+    / /|   |\ \     HARDWARE:   ESP32 Xtensa Dual-Core, Raspberry Pi Zero/CM4, Bambu Lab X1C
+   (_/ |   | \_)    INFRA:      Debian Linux, Kubernetes RBAC, Terraform, MikroTik, UniFi PoE
+       |___|        SHELL:      zsh 5.9 / Bash 5.2 / Neovim 0.10 / iTerm2 OSC 1337
+      (__|__)       TELEMETRY:  SNMPv3, TICK Stack, v4l2rtspserver, LittleFS/SPIFFS
 ```
 
 ```text
@@ -74,14 +74,14 @@
 ### 🛡️ SRE, Systems & High-Performance CLI Nodes
 
 ```text
-┌───────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  cidr-calculator  │ Zero-dependency IPv4/IPv6 CIDR decomposition, route summarizer & Terraform exporter   │
-│  mdee             │ Production terminal Markdown viewer for iTerm2 (OSC 1337 images + Chroma syntax)       │
-│  delim            │ Zero-allocation terminal separator utility detecting dynamic TTY width across streams │
-│  golang-mermaid   │ Terminal Mermaid diagram renderer via Kitty Graphics, DEC Sixel & iTerm2 protocols    │
-│  rbac-editor      │ 100% client-side in-browser Kubernetes RBAC AST validator & permission analyzer       │
-│  yaml-validator   │ SRE YAML anchor (&), alias (*) and merge key (<<) resolver with secret detection       │
-└───────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ cidr-calculator │ Zero-dependency IPv4/IPv6 CIDR decomposition & Terraform  │
+│ mdee            │ Production terminal Markdown viewer for iTerm2 (OSC 1337) │
+│ delim           │ Zero-allocation terminal separator utility across streams │
+│ golang-mermaid  │ Terminal Mermaid diagram renderer via Sixel, Kitty & iTerm│
+│ rbac-editor     │ Client-side in-browser Kubernetes RBAC security analyzer  │
+│ yaml-validator  │ SRE YAML anchor (&), alias (*) & merge key resolver       │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 * **[smford/cidr-calculator](https://github.com/smford/cidr-calculator)** • `Go` `IPv4/IPv6` `Terraform`  
@@ -175,14 +175,9 @@ brew install matrix-cat
 
 ## 🔬 `[05]` // WORKSHOP BENCH & LAB INVENTORY
 
-```text
-  [01] RAPID FABRICATION LAB          [02] EMBEDDED SYSTEM BENCH          [03] NETWORK & BACKBONE
-  ───────────────────────────────     ───────────────────────────────     ───────────────────────────────
-  • Bambu Lab X1-Carbon (PETG-CF)     • ESP32 Xtensa Dual-Core 240MHz     • Ubiquiti UniFi PoE Backbone
-  • Heavy CNC Gantry Timber Router    • Raspberry Pi CM4 & Pi Zero W      • MikroTik RouterOS v7 Core
-  • Optical CO2 Laser Cutter CNC      • 13.56MHz RFID SPI Access Buses    • Isolated VLAN / Zero-Trust ICE
-  • Autodesk Fusion 360 Parametric    • Logic Analyzers & Opto Relays     • Home Assistant Local Zigbee
-```
+| `[01]` Rapid Fabrication Lab | `[02]` Embedded Systems Bench | `[03]` Network & Backbone |
+| :--- | :--- | :--- |
+| • Bambu Lab X1-Carbon (PETG-CF)<br>• Heavy CNC Gantry Timber Router<br>• Optical CO2 Laser Cutter CNC<br>• Autodesk Fusion 360 Parametric | • ESP32 Xtensa Dual-Core 240MHz<br>• Raspberry Pi CM4 & Pi Zero W<br>• 13.56MHz RFID SPI Access Buses<br>• Logic Analyzers & Opto Relays | • Ubiquiti UniFi PoE Network Mesh<br>• MikroTik RouterOS v7 Core<br>• Isolated VLANs & Zero-Trust ICE<br>• Home Assistant Local Zigbee Mesh |
 
 ---
 
