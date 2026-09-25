@@ -18,7 +18,7 @@
 [![Kernel](https://img.shields.io/badge/KERNEL-6.1.0--DEBIAN-00ff66?style=for-the-badge&logo=debian&logoColor=00ff66&labelColor=06080e)](https://smford.github.io/)
 [![Portfolio](https://img.shields.io/badge/HUD_PORTFOLIO-smford.github.io-FCEE0A?style=for-the-badge&logo=firefoxbrowser&logoColor=FCEE0A&labelColor=06080e)](https://smford.github.io/)
 
-### `> SENIOR SITE RELIABILITY ENGINEER // HARDWARE PROTOTYPER`
+### `> SITE RELIABILITY ENGINEER // HARDWARE PROTOTYPER`
 
 *Bridging low-level firmware engineering, bespoke IoT controllers, real-time telemetry, resilient distributed infrastructure, and physical CNC/timber fabrication.*
 
@@ -30,26 +30,11 @@
 
 ## 📟 `[01]` // SYS_DIAGNOSTICS & TELEMETRY
 
-```text
-smford@mainframe:~$ neofetch --cyberdeck
-       .---.        OPERATOR:   Steve Ford (@smford)
-      /     \       ROLE:       Senior Site Reliability Engineer & Hardware Prototyper
-     | () () |      FOCUS:      High-Scale Reliability, Zero-Alloc Go CLIs, IoT Cyberware
-      \  -  /       UPTIME:     20+ Years Continuous Systems & Infrastructure Engineering
-     .-'---'-.      NETWORK:    Bay Area Grid // UK Matrix Nodes
-    / /|   |\ \     HARDWARE:   ESP32 Xtensa Dual-Core, Raspberry Pi Zero/CM4, Bambu Lab X1C
-   (_/ |   | \_)    INFRA:      Debian Linux, Kubernetes RBAC, Terraform, MikroTik, UniFi PoE
-       |___|        SHELL:      zsh 5.9 / Bash 5.2 / Neovim 0.10 / iTerm2 OSC 1337
-      (__|__)       TELEMETRY:  SNMPv3, TICK Stack, v4l2rtspserver, LittleFS/SPIFFS
-```
-
-```text
-┌─────────────────────────── TELEMETRY SUMMARY ───────────────────────────┐
-│ KERNEL: 6.1.0-DEBIAN-SMP          │ ACTIVE REPOSITORIES: 150+ NODES     │
-│ CODEC: H.264 / RTSP 120ms         │ SECURITY AUDIT: ZERO-TRUST K8S RBAC │
-│ COMPILER: Go 1.23 / Clang C++20   │ FABRICATION: Bambu PETG-CF / CNC CAD│
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <a href="https://smford.github.io/">
+    <img src="./assets/cyberdeck-terminal.svg" alt="smford Cyberdeck Terminal Telemetry" width="100%" />
+  </a>
+</div>
 
 ---
 
