@@ -18,7 +18,6 @@
     .mono { font-family: ui-monospace, 'SF Mono', Menlo, Monaco, Consolas, 'Cascadia Code', monospace; }
     .title-text { font-size: 12px; fill: #6b8299; letter-spacing: 1px; }
     .prompt-label { font-size: 13px; font-weight: bold; }
-    .ascii-art { font-size: 13px; fill: #00F0FF; font-weight: bold; }
     .field-label { font-size: 12px; font-weight: bold; fill: #FCEE0A; letter-spacing: 0.5px; }
     .field-val { font-size: 12px; fill: #FFFFFF; font-weight: 500; }
     .hud-label { font-size: 11px; fill: #6b8299; font-weight: bold; letter-spacing: 1px; }
@@ -49,78 +48,62 @@
   <text x="730" y="24" class="mono" font-size="11" font-weight="bold" fill="#00FF66" letter-spacing="1px">SEC_NET: ACTIVE</text>
 
   <!-- Command Line Prompt -->
-  <text x="32" y="70" class="mono prompt-label">
+  <text x="36" y="72" class="mono prompt-label">
     <tspan fill="#FCEE0A">smford@mainframe</tspan><tspan fill="#6b8299">:</tspan><tspan fill="#00F0FF">~</tspan><tspan fill="#FFFFFF">$ neofetch --cyberdeck</tspan>
   </text>
 
-  <!-- ASCII Penguin / Cyberdeck Glyph on Left -->
-  <g class="mono ascii-art">
-    <text x="42" y="106">       .---.       </text>
-    <text x="42" y="128">      /     \      </text>
-    <text x="42" y="150">     | () () |     </text>
-    <text x="42" y="172">      \  -  /      </text>
-    <text x="42" y="194">     .-'---'-.     </text>
-    <text x="42" y="216">    / /|   |\ \    </text>
-    <text x="42" y="238">   (_/ |   | \_)   </text>
-    <text x="42" y="260">       |___|       </text>
-    <text x="42" y="282">      (__|__)      </text>
-  </g>
-
-  <!-- Divider Line Between ASCII and Specs -->
-  <line x1="216" y1="92" x2="216" y2="295" stroke="#00F0FF" stroke-opacity="0.25" stroke-dasharray="3,3"/>
-
-  <!-- Neofetch Telemetry Key-Values on Right -->
+  <!-- Neofetch Telemetry Key-Values -->
   <g class="mono">
     <!-- Row 1: OPERATOR -->
-    <text x="236" y="106">
+    <text x="44" y="106">
       <tspan class="field-label">OPERATOR:   </tspan>
       <tspan class="field-val">Steve Ford (@smford)</tspan>
     </text>
 
     <!-- Row 2: ROLE -->
-    <text x="236" y="128">
+    <text x="44" y="128">
       <tspan class="field-label">ROLE:       </tspan>
       <tspan class="field-val">Site Reliability Engineer &amp; Hardware Prototyper</tspan>
     </text>
 
     <!-- Row 3: FOCUS -->
-    <text x="236" y="150">
+    <text x="44" y="150">
       <tspan class="field-label">FOCUS:      </tspan>
       <tspan class="field-val">High-Scale Reliability, Zero-Alloc Go CLIs, IoT Cyberware</tspan>
     </text>
 
     <!-- Row 4: UPTIME -->
-    <text x="236" y="172">
+    <text x="44" y="172">
       <tspan class="field-label">UPTIME:     </tspan>
       <tspan class="field-val">20+ Years Continuous Systems &amp; Infrastructure Engineering</tspan>
     </text>
 
     <!-- Row 5: NETWORK -->
-    <text x="236" y="194">
+    <text x="44" y="194">
       <tspan class="field-label">NETWORK:    </tspan>
       <tspan class="field-val">Bay Area Grid // UK Matrix Nodes</tspan>
     </text>
 
     <!-- Row 6: HARDWARE -->
-    <text x="236" y="216">
+    <text x="44" y="216">
       <tspan class="field-label">HARDWARE:   </tspan>
-      <tspan class="field-val">ESP32 Xtensa Dual-Core, Raspberry Pi Zero/CM4, Bambu X1C</tspan>
+      <tspan class="field-val">ESP32 Xtensa Dual-Core, Raspberry Pi Zero/CM4, Bambu Lab X1C</tspan>
     </text>
 
     <!-- Row 7: INFRA -->
-    <text x="236" y="238">
+    <text x="44" y="238">
       <tspan class="field-label">INFRA:      </tspan>
-      <tspan class="field-val">Debian Linux, Kubernetes RBAC, Terraform, MikroTik, UniFi</tspan>
+      <tspan class="field-val">Debian Linux, Kubernetes RBAC, Terraform, MikroTik, UniFi PoE</tspan>
     </text>
 
     <!-- Row 8: SHELL -->
-    <text x="236" y="260">
+    <text x="44" y="260">
       <tspan class="field-label">SHELL:      </tspan>
-      <tspan class="field-val">zsh 5.9 / Bash 5.2 / Neovim 0.10 / iTerm2 OSC 1337</tspan>
+      <tspan class="field-val">zsh 5.9 / Bash 5.2 / Neovim 0.10 / iTerm2 OSC 1337 / tmux</tspan>
     </text>
 
     <!-- Row 9: TELEMETRY -->
-    <text x="236" y="282">
+    <text x="44" y="282">
       <tspan class="field-label">TELEMETRY:  </tspan>
       <tspan class="field-val">SNMPv3, TICK Stack, v4l2rtspserver, LittleFS/SPIFFS</tspan>
     </text>
