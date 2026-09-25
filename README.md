@@ -81,11 +81,3 @@ brew install matrix-rain
 brew install matrix-cat
 ```
 
----
-
-## 🔬 `[04]` // WORKSHOP BENCH & LAB INVENTORY
-
-| `[01]` Rapid Fabrication Lab | `[02]` Embedded Systems Bench | `[03]` Network & Backbone |
-| :--- | :--- | :--- |
-| • Bambu Lab X1-Carbon (PETG-CF)<br>• Heavy CNC Gantry Timber Router<br>• Optical CO2 Laser Cutter CNC<br>• Autodesk Fusion 360 Parametric | • ESP32 Xtensa Dual-Core 240MHz<br>• Raspberry Pi CM4 & Pi Zero W<br>• 13.56MHz RFID SPI Access Buses<br>• Logic Analyzers & Opto Relays | • Ubiquiti UniFi PoE Network Mesh<br>• MikroTik RouterOS v7 Core<br>• Isolated VLANs & Zero-Trust ICE<br>• Home Assistant Local Zigbee Mesh |
-
