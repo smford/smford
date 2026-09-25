@@ -153,9 +153,9 @@ brew install matrix-cat
 ## 📊 `[05]` // GITHUB NETWORK METRICS
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smford&show_icons=true&theme=radical&bg_color=06080e&title_color=FCEE0A&text_color=dcf2fd&icon_color=00F0FF&border_color=00F0FF40&hide_border=false" alt="smford GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smford&layout=compact&theme=radical&bg_color=06080e&title_color=FCEE0A&text_color=dcf2fd&border_color=00F0FF40&hide_border=false" alt="Top Languages" width="48%" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smford&theme=radical" alt="smford GitHub Profile Details" width="100%" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smford&theme=radical" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smford&theme=radical" alt="Top Languages by Commit" width="49%" />
 </div>
 
