@@ -41,10 +41,8 @@
   <circle cx="42" cy="20" r="5" fill="#FCEE0A"/>
   <circle cx="60" cy="20" r="5" fill="#00F0FF"/>
 
-  <text x="82" y="24" class="mono title-text">smford@mainframe: ~ (bash/netrunner) // TTY1_ONLINE</text>
-  
-  <!-- Right Status Beacon (Using text-anchor end with bullet for zero overlay) -->
-  <text x="814" y="24" text-anchor="end" class="mono" font-size="11" font-weight="bold" fill="#00FF66" letter-spacing="1px">● SEC_NET: ACTIVE</text>
+  <text x="82" y="24" class="mono title-text">smford@mainframe: ~ (bash/netrunner)</text>
+  <text x="814" y="24" text-anchor="end" class="mono" font-size="11" font-weight="bold" fill="#FCEE0A" letter-spacing="1px">TTY1_ONLINE</text>
 
   <!-- Command Line Prompt -->
   <text x="36" y="72" class="mono prompt-label">

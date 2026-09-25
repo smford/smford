@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://smford.github.io/">
-    <img src="./assets/cyberdeck-terminal.svg" alt="smford Cyberdeck Terminal Telemetry" width="100%" />
+    <img src="./assets/cyberdeck-terminal.svg?v=3" alt="smford Cyberdeck Terminal Telemetry" width="100%" />
   </a>
 </div>
 
