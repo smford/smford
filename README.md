@@ -53,23 +53,7 @@ smford@mainframe:~$ neofetch --cyberdeck
 
 ---
 
-## 🛠️ `[02]` // OPERATOR_STACK & CYBERWARE SPEC
-
-<div align="center">
-
-| Subsystem | Capabilities & Production Tooling |
-| :--- | :--- |
-| **SRE, Cloud & Resilient Infrastructure** | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/Kubernetes_RBAC-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform_IaC-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MikroTik](https://img.shields.io/badge/MikroTik_RouterOS-000000?style=flat-square&logo=mikrotik&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/UniFi_PoE_Mesh-0559C9?style=flat-square&logo=ubiquiti&logoColor=white) ![SNMP](https://img.shields.io/badge/SNMP_Telemetry-00F0FF?style=flat-square&logo=wireshark&logoColor=black) |
-| **High-Performance CLI & Systems** | ![Go](https://img.shields.io/badge/Go_1.23-00ADD8?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/Embedded_C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Homebrew](https://img.shields.io/badge/Homebrew_Tap-FBB040?style=flat-square&logo=homebrew&logoColor=black) ![ANSI/VT100](https://img.shields.io/badge/ANSI_VT100_Sixel-FCEE0A?style=flat-square&logo=gnometerminal&logoColor=black) |
-| **Creative Computing, 3D Shaders & Simulators** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/Vanilla_ESNext-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![WebGL 2.0](https://img.shields.io/badge/WebGL_2.0_GLSL-990000?style=flat-square&logo=webgl&logoColor=white) ![Web Audio API](https://img.shields.io/badge/Web_Audio_DSP-FF003C?style=flat-square&logo=audio-technica&logoColor=white) ![HTML5 Canvas](https://img.shields.io/badge/Canvas_CP437-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Embedded Hardware & IoT Systems** | ![ESP32](https://img.shields.io/badge/ESP32_Xtensa-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Zero_W-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) ![RFID](https://img.shields.io/badge/RC522_SPI_RFID-00ff66?style=flat-square&logo=nfc&logoColor=black) ![Relay Isolation](https://img.shields.io/badge/Optocoupled_Relays-FF003C?style=flat-square&logo=circuitverse&logoColor=white) ![OneWire](https://img.shields.io/badge/DS18B20_1Wire-00F0FF?style=flat-square&logo=arduino&logoColor=black) |
-| **Rapid Fabrication & Workshop Tooling** | ![Bambu Lab](https://img.shields.io/badge/Bambu_Lab_X1C-00AE42?style=flat-square&logo=bambulab&logoColor=white) ![Carbon Fiber PETG](https://img.shields.io/badge/PETG--CF_Engineering-434343?style=flat-square&logo=materialdesign&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Autodesk_Fusion_360-F25022?style=flat-square&logo=autodesk&logoColor=white) ![CNC Timber](https://img.shields.io/badge/CNC_Gantry_Router-8B4513?style=flat-square&logo=wood&logoColor=white) ![Laser CNC](https://img.shields.io/badge/Laser_Interlocks-FF003C?style=flat-square&logo=target&logoColor=white) |
-
-</div>
-
----
-
-## ⚡ `[03]` // FEATURED PRODUCTION PROTOCOLS & HUDS
+## ⚡ `[02]` // FEATURED PRODUCTION PROTOCOLS & HUDS
 
 ### 🛡️ SRE, Systems & High-Performance CLI Nodes
 
@@ -153,7 +137,7 @@ smford@mainframe:~$ neofetch --cyberdeck
 
 ---
 
-## 🍺 `[04]` // DEPLOY VIA HOMEBREW TAP
+## 🍺 `[03]` // DEPLOY VIA HOMEBREW TAP
 
 Install my command-line tools on macOS or Linux with zero dependencies:
 
@@ -173,7 +157,7 @@ brew install matrix-cat
 
 ---
 
-## 🔬 `[05]` // WORKSHOP BENCH & LAB INVENTORY
+## 🔬 `[04]` // WORKSHOP BENCH & LAB INVENTORY
 
 | `[01]` Rapid Fabrication Lab | `[02]` Embedded Systems Bench | `[03]` Network & Backbone |
 | :--- | :--- | :--- |
@@ -181,7 +165,7 @@ brew install matrix-cat
 
 ---
 
-## 📊 `[06]` // GITHUB NETWORK METRICS
+## 📊 `[05]` // GITHUB NETWORK METRICS
 
 <div align="center">
 
@@ -190,19 +174,3 @@ brew install matrix-cat
 
 </div>
 
----
-
-## 📡 `[07]` // CONNECT & ACCESS CHANNELS
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/LIVE_HUD_MAINFRAME-smford.github.io-FCEE0A?style=for-the-badge&logo=googlechrome&logoColor=06080e)](https://smford.github.io/)
-[![Lab](https://img.shields.io/badge/LAB_DEMOS-stephenford.org-00F0FF?style=for-the-badge&logo=safari&logoColor=06080e)](https://stephenford.org/)
-[![Homebrew](https://img.shields.io/badge/BREW_TAP-smford%2Fhomebrew--tap-FBB040?style=for-the-badge&logo=homebrew&logoColor=06080e)](https://github.com/smford/homebrew-tap)
-[![GitHub](https://img.shields.io/badge/GITHUB_PROFILE-smford-FF003C?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/smford)
-
-```text
-[ MAINFRAME TELEMETRY LINK: ACTIVE // UNRESTRICTED ACCESS GRANTED // EXEC 0x00FF ]
-```
-
-</div>
